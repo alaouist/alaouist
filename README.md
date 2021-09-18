@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alaouist
+- 👋 Hi, I’m Amine El Alaoui
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning PHP | MYSQL | HTML | CSS | JAVASCRIPT
 - 💞️ I’m looking to collaborate on Symfony , Laravel, PHPCake
